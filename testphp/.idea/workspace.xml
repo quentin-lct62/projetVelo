@@ -4,6 +4,10 @@
     <list default="true" id="e1520fcb-81c9-456d-bf06-d61b2e72ae90" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/css/styles2.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/css/styles2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/css/styles3.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/css/styles3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/css/styles4.css" beforeDir="false" afterPath="$PROJECT_DIR$/libs/css/styles4.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/locations.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/locations.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/locations2.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/locations2.html" afterDir="false" />
@@ -90,7 +94,7 @@
       <workItem from="1575798033225" duration="8000" />
       <workItem from="1575798080952" duration="201000" />
       <workItem from="1575875323291" duration="6588000" />
-      <workItem from="1575884887519" duration="1456000" />
+      <workItem from="1575884887519" duration="5867000" />
     </task>
     <servers />
   </component>

@@ -19,72 +19,72 @@
 </head>
 <body>
 <header>
-    <div classe="row">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
-            <div class="container">
-                <a class="navbar-brand" href="http://localhost:63342/testphp/index.html?_ijt=90p76l7gt3p79hbkvd3pp0r7h3">
-                    <img src="../libs/img/logo.png" height="69" width="105"/>
-                </a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav mt-4">
-                        <li class="nav-item">
-                            <a class="nav-link" href="http://localhost:63342/testphp/index.html?_ijt=90p76l7gt3p79hbkvd3pp0r7h3">ACCUEIL
-                                <span class="sr-only">(current)</span>
-                            </a>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                LOCATIONS
-                            </a>
-                            <div class="dropdown-menu dropdown-menu-right animate slideIn" aria-labelledby="navbarDropdown">
-                                <a href="http://localhost:63342/testphp/templates/locations.html?_ijt=otu6flf34qt79b0bsrhitpf0i" class="dropdown-item" id="modal1" data-dismiss="dropdown"  data-target="#exampleModalCenter">Vélo classique</a>
+    <!---------------------------navbar---------------------------->
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/testphp/index.html">
+               <img src="../libs/img/logo.png"/>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav mt-4">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/testphp/index.html">ACCUEIL
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            LOCATIONS
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right animate slideIn" aria-labelledby="navbarDropdown">
+                            <a href="/testphp/templates/locations.html" class="dropdown-item" id="modal1" data-dismiss="dropdown"  data-target="#exampleModalCenter">Vélo classique</a>
 
 
-                                <div class="dropdown-divider"></div>
-                                <a href="http://localhost:63342/testphp/templates/locations2.html?_ijt=coas9585ad8vjfhdcds4jo6dr7" class="dropdown-item" data-dismiss="dropdown">vélo électrique</a>
+                            <div class="dropdown-divider"></div>
+                            <a href="/testphp/templates/locations2.html" class="dropdown-item" data-dismiss="dropdown">vélo électrique</a>
 
-                            </div>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="http://localhost:63342/testphp/templates/contact.html?_ijt=ova6iafaka6jshe7bl6se703ug">CONTACT</a>
-                        </li>
-                    </ul>
-                </div>
-
-
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                connexion/inscription
-                            </a>
-                            <div class="dropdown-menu dropdown-menu-right animate slideIn" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" id="modal2" data-dismiss="dropdown" data-toggle="modal" data-target="#exampleModalCenter">Inscription</a>
-
-
-                                <div class="dropdown-divider"></div>
-                                <a class="dropdown-item" id="modal" data-dismiss="dropdown" data-toggle="modal" data-target="#exampleModalCenter2">j'ai déja un compte</a>
-
-                            </div>
-                        </li>
-                    </ul>
-                </div>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/testphp/templates/contact.html">CONTACT</a>
+                    </li>
+                </ul>
             </div>
-        </nav>
-    </div>
+
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            connexion/inscription
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right animate slideIn" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" id="modal2" data-dismiss="dropdown" data-toggle="modal" data-target="#exampleModalCenter">Inscription</a>
+
+
+                            <div class="dropdown-divider"></div>
+                            <a class="dropdown-item" id="modal" data-dismiss="dropdown" data-toggle="modal" data-target="#exampleModalCenter2">j'ai déja un compte</a>
+
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
 
 </header>
 <!---------------------------end-navbar---------------------------->
 
 
-<div class="container mt-5">
+<div class="container mt-5" id="card">
     <div class="row mx-5">
         <div class="col-lg-12 col-md-12">
             <div class="card">
-                <img src="../libs/img/veloelectrique.jpg"  class="card-img-top" height="600" alt="veloclassique">
+                <img src="../libs/img/veloelectrique.jpg"  class="card-img-top" alt="veloelectrique">
                 <div class="card-body ml-5">
                     <h5 class="card-title">Description:</h5>
                     <p>vélo electrique</p>
@@ -95,10 +95,10 @@
                     </div>
                     <select class="custom-select" id="inputGroupSelect02">
                         <option selected>Choisir</option>
-                        <option value="1">Heures</option>
-                        <option value="2">Jours</option>
-                        <option value="3">Semaines</option>
-                        <option value="3">Mois</option>
+                        <option value="heures">Heures</option>
+                        <option value="jours">Jours</option>
+                        <option value="semaines">Semaines</option>
+                        <option value="mois">Mois</option>
 
                     </select>
                 </div>
@@ -111,7 +111,7 @@
                         <option value="1">1</option>
                         <option value="2">2</option>
                         <option value="3">3</option>
-                        <option value="3">4</option>
+                        <option value="4">4</option>
                     </select>
                 </div>
                 <div class="input-group mb-3">
@@ -120,11 +120,11 @@
                     </div>
                     <select class="custom-select" id="inputGroupSelect04">
                         <option selected>choisir</option>
-                        <option value="1">4 Cantons</option>
-                        <option value="2">Lille-sud</option>
-                        <option value="3">Lille-five</option>
-                        <option value="3">Wazemme</option>
-                        <option value="3">Vieux-Lille</option>
+                        <option value="4cantons">4 Cantons</option>
+                        <option value="Lille-sud">Lille-sud</option>
+                        <option value="Lille-five">Lille-five</option>
+                        <option value="Wazemmes">Wazemme</option>
+                        <option value="Vieux-Lille">Vieux-Lille</option>
                     </select>
                 </div>
 
@@ -144,9 +144,9 @@
                             <a href="#" class="btn btn-dark mx-auto mt-4">Valider la location</a>
                         </div>
                     </div>
-                    <div class="container text-center">
-                        <iframe class="mt-4 " src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d40492.554843972!2d3.0121410656906003!3d50.63111669609767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2d579b3256e11%3A0x40af13e81646360!2sLille!5e0!3m2!1sfr!2sfr!4v1575551230772!5m2!1sfr!2sfr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-                    </div>
+
+                        <iframe class="mt-4 mx-auto " src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d40492.554843972!2d3.0121410656906003!3d50.63111669609767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2d579b3256e11%3A0x40af13e81646360!2sLille!5e0!3m2!1sfr!2sfr!4v1575551230772!5m2!1sfr!2sfr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
                 </div>
             </div>
         </div>
@@ -228,7 +228,7 @@
 
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3">© 2019 Copyright:
-        <a> On-s'en-fou.com</a>
+        <a href="#">On-s'en-fou.com</a>
     </div>
     <!-- Copyright -->
 
@@ -284,7 +284,7 @@
                 </form>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-dismiss="modal">Annuler</button>
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Annuler</button>
                 <button type="button" class="btn btn-secondary">Valider</button>
             </div>
         </div>
@@ -319,7 +319,7 @@
                 </form>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-dark" data-dismiss="modal">Annuler</button>
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Annuler</button>
                 <button type="button" class="btn btn-dark">Connexion</button>
             </div>
         </div>

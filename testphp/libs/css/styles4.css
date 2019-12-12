@@ -3,3 +3,10 @@ footer{
     background-color:dimgrey;
     color: darkgoldenrod;
 }
+a{
+    color: darkgoldenrod;
+}
+
+#card{
+    width: 900PX;
+}
