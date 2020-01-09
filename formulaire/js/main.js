@@ -16,6 +16,7 @@ function checkEmptyInputs(){
 
 
 function checkMailFormat(email){
+  
 
 }
 

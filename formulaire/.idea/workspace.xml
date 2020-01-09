@@ -12,8 +12,12 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="PhpDebugGeneral" listening_started="true" />
   <component name="ProjectId" id="1UqQOWV0k1TDJWEUvdXhgZud8Fo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,13 +26,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/untitled" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -56,6 +61,13 @@
       <workItem from="1576081963069" duration="9404000" />
       <workItem from="1576098548193" duration="1844000" />
       <workItem from="1576136224323" duration="8798000" />
+      <workItem from="1576156350157" duration="1063000" />
+      <workItem from="1576221192586" duration="70000" />
+      <workItem from="1576221271516" duration="15000" />
+      <workItem from="1576233048513" duration="34000" />
+      <workItem from="1576233089943" duration="49000" />
+      <workItem from="1576233147752" duration="3000" />
+      <workItem from="1576233157130" duration="65000" />
     </task>
     <servers />
   </component>
@@ -67,13 +79,22 @@
       <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.803@0.23.1440.803" timestamp="1576136631101" />
-    <state x="221" y="63" key="SettingsEditor" timestamp="1576136062590">
-      <screen x="0" y="23" width="1440" height="803" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1576233220772">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576233220772" />
+    <state x="295" y="52" key="SettingsEditor" timestamp="1576156520625">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="295" y="52" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576156520625" />
     <state x="221" y="63" key="SettingsEditor/0.23.1440.803@0.23.1440.803" timestamp="1576136062590" />
     <state width="500" height="445" key="SwitcherDM" timestamp="1576087990234">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1440.803@0.23.1440.803" timestamp="1576087990234" />
+    <state x="667" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1576233096646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576233096646" />
   </component>
 </project>

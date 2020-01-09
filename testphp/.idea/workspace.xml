@@ -44,7 +44,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/ProjetImmo" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -95,6 +95,8 @@
       <workItem from="1575798080952" duration="201000" />
       <workItem from="1575875323291" duration="6588000" />
       <workItem from="1575884887519" duration="5867000" />
+      <workItem from="1578299861675" duration="15000" />
+      <workItem from="1578299883687" duration="69000" />
     </task>
     <servers />
   </component>
@@ -123,6 +125,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1575878819495" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1578299951897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578299951897" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1575884906843">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -139,10 +145,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575884906843" />
-    <state x="397" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1575884889679">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="529" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1578299888295">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="397" y="262" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1575884889679" />
+    <state x="529" y="303" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578299888295" />
     <state x="397" y="257" key="com.intellij.ide.util.TipDialog/0.23.1440.803@0.23.1440.803" timestamp="1575484064676" />
   </component>
 </project>
